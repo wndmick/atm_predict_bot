@@ -1,8 +1,9 @@
 # atm_predict_bot
 Telegram бот для проекта по оценке расположения банкоматов  
 Страница проекта: https://github.com/Semyon-Yakovlev/Project_ATM
+Бот: https://t.me/ATM_prediction_bot
 
-Список доступных комманд:
+Список доступных команд:
 
 /help - справка  
 /predict [lat], [long] - предсказание по координатам  
